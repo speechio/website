@@ -1,10 +1,10 @@
 # Site settings
 title: SpeechIO
-email: 
+email: jerry.ejwt@qq.com
 url: https://www.speechio.ai
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "Speech Recognition"
-skills: "Benchmark - Open-Source Models"
+skills: "Speech Recognition Benchmark, Open-Source Models, Blogs"
 meta_author: LastName FirstName
 
 # Google webmaster tools
